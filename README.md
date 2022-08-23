@@ -1,2 +1,2 @@
 # Personal website
-## [Link to website](sebastianromano.github.io)
+## [Link to website](https://sebastianromano.github.io)
